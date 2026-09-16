@@ -1,66 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Badges
-Add some badges and stats to your profile.
-
-
-Previous
-
-Next
-Style badges:
-
-Select a badge below to customise.
-
-
- 
-Title
-Edit
-
- 
-Text
-Edit
-
- 
-Icons
-Edit
-
- 
-Background
-Edit
-GitHub
-Stats Card
-Commit Streak
-Top Languages
-Top Repositories
-Follower Count
-X (Twitter)
-Please add your X profile in the socials section.
-
-Follower Count
-Twitch
-Please add your Twitch profile in the socials section.
-
-Streaming Status
-
-Previous
-
-Next
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nanthawat
 ==================================================================================================================================
 
@@ -80,4 +17,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Nanthawat67" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/nantawat.saeyang.2025" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-ProfileMe.dev | Create an amazing GitHub profile in minutes
